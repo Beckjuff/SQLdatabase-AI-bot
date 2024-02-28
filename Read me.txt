@@ -1,0 +1,4 @@
+- Run python backend project
+    python python_backend.py  ( backend server start at 127.0.0.1:5000)
+- Run react frontend project
+    npm start   ( frontend start at 127.0.0.1:3000)
